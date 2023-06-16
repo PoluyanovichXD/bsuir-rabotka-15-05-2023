@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\курсач\obj\Debug\netstandard2.0\курсач.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\курсач\obj\Debug\netstandard2.0\курсач.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\курсач\obj\Debug\netstandard2.0\курсач.AssemblyInfo.cs
+C:\Users\admin\Desktop\курсач\obj\Debug\netstandard2.0\курсач.csproj.CoreCompileInputs.cache

@@ -3,9 +3,11 @@ C:\Users\admin\Desktop\курсач\bin\Debug\netcoreapp2.1\курсач.runtime
 C:\Users\admin\Desktop\курсач\bin\Debug\netcoreapp2.1\курсач.runtimeconfig.dev.json
 C:\Users\admin\Desktop\курсач\bin\Debug\netcoreapp2.1\курсач.dll
 C:\Users\admin\Desktop\курсач\bin\Debug\netcoreapp2.1\курсач.pdb
-C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.csprojAssemblyReference.cache
 C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.AssemblyInfoInputs.cache
 C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.AssemblyInfo.cs
 C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.dll
 C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.pdb
+C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\курсач\obj\Debug\netcoreapp2.1\курсач.genruntimeconfig.cache
